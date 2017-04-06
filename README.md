@@ -1,20 +1,20 @@
 # Installing opencv on opencvonx64 
 
-This is a script to install opencv on an AArch64 device. Because I am lazy. 
+This is a script to install opencv on an x64 device. Because I am lazy. 
 
 ## Getting Started
 
 Set the required permissions first by doing: 
 
-chmod 0755 postInstall_opencv_arm.sh 
+chmod 0755 opencv-on-x64.sh
 
 Run this script with: 
 
-./postInstall_opencv_arm.sh
+./opencv-on-x64.sh
 
 ### Prerequisites
 
-1 x arm64 device
+1 x x64 device
 git
 
 ## License
